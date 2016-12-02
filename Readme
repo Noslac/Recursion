@@ -1,0 +1,44 @@
+CEF207 – Tutorial Sheet 2 first semester.
+
+Exercise.   2.1  Input  two numbers   and  work  out their  sum, average and  sum  of the  squares   of   the 
+numbers.
+
+Exercise. 2.2 Write a program that works out the largest and smallest values from a set of 10 inputted 
+numbers.
+
+Exercise. 2.3 Given as input a floating (real) number of centimeters, print out the equivalent number of 
+feet (integer) and inches (floating, 1 decimal), with the inches given to an accuracy of one decimal 
+place.
+Assume 2.54 centimeters per inch, and 12 inches per foot.
+If the input value is 333.3, the output format should be:
+333.3 centimeters is 10 feet 11.2 inches.
+
+Exercise. 2.4 Write a program which reads two integer values. If the first is less than the second, print 
+the message up. If the second is less than the first, print the message down If the numbers are equal, 
+print the message equal If there is an error reading the data, print a message containing the word Error 
+and perform exit( 0 );
+Exercise. 2.5 Read an integer value. Assume it is the number of a month of the year; print out the name 
+of that month.
+
+Exercise. 2.6 Write a program to output an integer in decimal format and a floating point number in 
+float format. Experiment with outputting an integer in float format and visa versa. Output a character 
+in decimal format (prints the character code e.g. ascii). Fix any problems by using an explicit type 
+coercion or cast. 
+
+Exercise.  2.7  Write a program to input an integer, n, between 1 and 9, and print a line of output 
+consisting of digits from 1 to n, followed by descending digits from (n­1) to 1. For example, if n = 6, 
+then the output will be 
+12345654321
+
+Exercise. 2.8 Write a program which requests two integers, m and n, and produces a table of squares 
+from m to n inclusive.
+
+Exercise. 2.9 Write a program to read an integer from 1 to 999 and print the integer in words. E.g if 897 
+is read, the program prints
+eight hundred and ninety­seven
+
+Exercise. 2.10 Write a program which converts an integer into Roman numerals.
+Tutorial sheet 2  By Harry and Damen NgatchuTutorial sheet 2  
+
+
+By Harry and Damen Ngatchu
